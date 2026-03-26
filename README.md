@@ -1,0 +1,1 @@
+# kafka-sts-cluster-eks-argocd
